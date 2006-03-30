@@ -30,7 +30,7 @@ module Rsl
 
     (1..xes.size).each do |count|
       dx = xes[count-1] - run_x
-      dy = ( ys[count-1] || -5.0 ) - run_y
+      dy = ( ys[count-1] ) - run_y
       dx2 += ( dx * dx - dx2 ) / count.to_f
       dxdy += ( dx * dy - dxdy ) / count.to_f
     end
