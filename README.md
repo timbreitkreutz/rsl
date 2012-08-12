@@ -27,7 +27,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+The best way to check usage is look at the files in the test directory.  More detailed documentation to come.
 
 ## Contributing
 
