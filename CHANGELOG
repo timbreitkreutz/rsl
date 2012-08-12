@@ -4,3 +4,9 @@ CHANGELOG
 
 * Initial release.
 * Simple least squares fit
+
+== 0.0.2
+
+* Migrate to github
+* Switch to MIT licence
+* Switch to bundler
